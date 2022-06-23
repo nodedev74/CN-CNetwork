@@ -8,6 +8,7 @@
 
 build/*
 !build/bootstrap.sh
+!build/README.md
 
 # Binary exclusion
 
@@ -19,4 +20,3 @@ build/*
 *.a
 
 *.exe
-
