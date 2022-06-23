@@ -4,3 +4,4 @@
 ### Purpose: root CMakeLists
 ############################
 
+# https://stackoverflow.com/a/39110572/17269331
