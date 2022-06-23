@@ -1,0 +1,22 @@
+############################
+### Author: nodedev74
+### Created: 23-06-22
+### Purpose: .gitignore file
+#############################
+
+# Build exclusion
+
+build/*
+!build/bootstrap.sh
+
+# Binary exclusion
+
+*.dll
+*.dynlib
+*.so
+
+*.lib
+*.a
+
+*.exe
+
