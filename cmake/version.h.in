@@ -1,0 +1,19 @@
+// -------------------------------
+// -- This file is auto generated 
+// --  !! Dont change content !!
+// -------------------------------
+
+#ifndef VERSION_H
+#define VERSION_H
+
+// https://www.akeeba.com/how-do-version-numbers-work.html
+
+#cmakedefine VERSION_ENABLE
+
+#cmakedefine MAJOR_VERSION @MAJOR_VERSION@
+#cmakedefine MINOR_VERSION @MINOR_VERSION@
+#cmakedefine RELEASE_NUMBER @RELEASE_NUMBER@
+
+#cmakedefine CN_VERSION @CN_VERSION@
+
+#endif

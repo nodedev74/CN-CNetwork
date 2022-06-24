@@ -4,13 +4,16 @@
 ### Purpose: .gitignore file
 #############################
 
-# Build exclusion
+# Build
 
 build/*
 !build/bootstrap.sh
 !build/README.md
 
-# Binary exclusion
+bin/*
+!bin/.gitkeep
+
+# Binaries
 
 *.dll
 *.dynlib
