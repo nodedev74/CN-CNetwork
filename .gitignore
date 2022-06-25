@@ -10,6 +10,7 @@ build/*
 !build/bootstrap.sh
 !build/README.md
 
+!build/temp
 build/temp/*
 !build/temp/.gitkeep
 
