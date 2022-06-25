@@ -10,7 +10,7 @@ add_executable ("${PROJ_NAME}Compiler")
 
 target_include_directories (
     "${PROJ_NAME}Compiler"
-    PRIVATE "${CMAKE_CURRENT_SOURCE_DIR}/../include")
+    PRIVATE "${CMAKE_CURRENT_SOURCE_DIR}/../include/compiler")
 
 # compiler source file
 
