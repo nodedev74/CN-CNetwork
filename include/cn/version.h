@@ -1,5 +1,5 @@
 // -------------------------------
-// -- This file is auto generated 
+// -- This file is auto generated
 // --  !! Dont change content !!
 // -------------------------------
 
@@ -8,12 +8,10 @@
 
 // https://www.akeeba.com/how-do-version-numbers-work.html
 
-#define VERSION_ENABLE
-
 #define MAJOR_VERSION 1
-/* #undef MINOR_VERSION */
-/* #undef RELEASE_NUMBER */
+#define MINOR_VERSION 0
+#define RELEASE_NUMBER 0
 
-/* #undef CN_VERSION */
+#define CN_VERSION "1.0.0"
 
 #endif

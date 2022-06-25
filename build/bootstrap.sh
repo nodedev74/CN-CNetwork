@@ -1,5 +1,7 @@
 #! /bin/sh
 
-cmake .. -Dtest=true
+cd "./temp" || exit
+
+cmake ../../
 
 read -r
