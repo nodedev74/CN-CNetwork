@@ -12,6 +12,7 @@
 
 build/*
 !build/bootstrap.sh
+!build/build.sh
 !build/README.md
 
 !build/temp

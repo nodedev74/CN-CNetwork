@@ -10,6 +10,7 @@ cmake_minimum_required (VERSION 3.8)
 
 include ("cmake/modules/version.cmake")
 include ("cmake/modules/argument.cmake")
+include ("cmake/modules/builder.cmake")
 
 # VERSION components
 

@@ -2,6 +2,6 @@
 
 cd "./temp" || exit
 
-cmake ../../
+cmake -S ../../ -Brelease -DCMAKE_BUILD_TYPE=Release
 
 read -r
