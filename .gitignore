@@ -4,6 +4,10 @@
 ### Purpose: .gitignore file
 #############################
 
+# IDE
+
+.vscode/*
+
 # Build
 
 build/*
