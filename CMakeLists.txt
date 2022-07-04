@@ -35,7 +35,3 @@ project (${PROJ_NAME} VERSION ${PROJ_VERSION} )
 # add compiler 
 
 add_subdirectory ("${CMAKE_CURRENT_SOURCE_DIR}/src")
-
-# add standard libraries
-
-add_subdirectory ("${CMAKE_CURRENT_SOURCE_DIR}/lib")
