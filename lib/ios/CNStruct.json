@@ -1,0 +1,17 @@
+{
+    "head": {
+        "language": {
+            "name": "ios",
+            "version": "1.1.0"
+        },
+        "filesystem": {
+            "output": {
+                "release": "${CURRENT_SOURCE_DIR}/..",
+                "debug": "${CURRENT_SOURCE_DIR}/Debug"
+            }
+        }
+    },
+    "body": {
+        "dependencies": []
+    }
+}
